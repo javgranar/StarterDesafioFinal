@@ -1,0 +1,6 @@
+Me he centrado en hacer la librería con programación funcional,
+estoy malo, pero he intentado resolver el ejercicio lo mejor posible,
+sinceramente me he visto muy perdido al intentar juntar todo lo estudiado,
+pero sé que es porque no he podido repasar por las tardes y eso me ha perjudicado mucho,
+cuando acaben los compañeros revisaré sus implementaciones para analizar como debería haber sido mi implementación
+muchas gracias por su tiempo
